@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f5e8da;
+}
+
+.SCALE {
+    width: 1000px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0;
+}
+
+/* Header */
+header {
+    padding: 10px 0px;
+    box-shadow: 0 -9px 26px rgb(84 69 61);
+}
+
+.LOGO {
+    width: 20%;
+}
+
+.LOGO img {
+    width: 128px;
+    height: 64px;
+    float: left;
+
+}
+
+nav {
+    width: 80%;
+    float: left;
+}
+
+nav ul {
+    list-style: none;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline-block
+}
+
+nav ul li a {
+
+    text-decoration: none;
+    color: #000000;
+    font-weight: 600;
+    padding: 20px 15px;
+    display: block;
+}
+
+
+/* Banner */
+.BANNER h1 {
+    font-size: 50px;
+    text-align: center;
+    padding: 50px 0 px;
+}
+
+.BANNER span {
+    font-size: 150px;
+    color: rgb(189, 144, 144);
+    font-style: uppercase;
+}
+
+/* sale imag */
+.SALE img {
+    display: block;
+    margin: 50px;
+}
+
+/* sale info */
+.pro {
+    padding: 50px 0px;
+}
+
+.sell {
+    width: 50%;
+    float: left;
+}
+
+
+.child {
+    text-align: right;
+    padding-right: 15px;
+}
+
+.child span {
+    color: rgb(255, 129, 129);
+    font-size: 50px;
+}
+
+.child p {
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.gifts {
+    padding-left: 5px;
+    padding-top: 20px;
+}
+
+.gifts span {
+    font-size: 60px;
+    color: #ff7678;
+
+
+}
+
+.gifts p {
+    font-size: 30px;
+    margin-top: -15px;
+}
+
+/* Blog-Section */
+.Blog_section {
+    margin-bottom: 50px;
+    max-width: 100%;
+}
+
+.COL {
+    width: 30%;
+    float: right;
+    padding: 8px;
+}
+
+.BLOG {
+    padding: 20px;
+
+}
+
+.BLOG h4 {
+    font-size: 30px;
+}
+
+.BLOG h4 span {
+    font-size: 40px;
+    color: rgb(142, 87, 87);
+}
+
+.BLOG img {
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 2px 18px black;
+}
+
+.T {
+    background: #ffcaca;
+    box-shadow: -11px 9px 31px #ffcaca;
+}
+
+.P {
+    background: #7daf93;
+    box-shadow: -11px 9px 31px#7daf93;
+}
+
+.SD {
+    background: #749965;
+    box-shadow: -11px 9px 31px #749965;
+}
